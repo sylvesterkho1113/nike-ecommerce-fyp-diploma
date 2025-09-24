@@ -1,4 +1,5 @@
 **📌 About the Project**
+
 This project is my Diploma Final Year Project, I have developed as a web-based E0-commerce system for selling Nike sport shoes. The system provides customers with an easy to use online shopping experience and also allowing administrators to manage product inventory, orders, and customer data efficiently.
 
 The project demonstrates practical skills in web development, database management, and user interface design, aligning with real-world e-commerce applications.
