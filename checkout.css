@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    color: #444;
+}
+
+.card-container{
+    display: flex;
+    width: 99%;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    margin: 12px auto;
+}
+
+.fa-solid{
+    margin-right: 10px;
+    font-size: 22px;
+    color: #aaa;
+}
+
+.card{
+    width: 35%;
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    height: 70vh;
+}
+
+.card a{
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right{
+    width: 60%;
+}
+
+.right p{
+    padding: 15px 20px;
+    font-weight: bold;
+}
+
+.details{
+    padding: 20px 20px;
+}
+
+.right a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.card-detail{
+    padding: 20px 10%;
+}
+
+.c-number{
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding: 0 12px;
+    margin-top: 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 18px;
+    width: 100%;
+}
+
+input{
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    font-size: 18px;
+}
+
+.c-detail{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    width: 100%;
+}
+
+.cc-exp{
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    height: 50px;
+    margin-top: 10px;
+    padding: 12px;
+    width: 150px;
+    font-size: 18px;
+}
+
+.cvv-box{
+    border: 1px solid #aaa;
+    margin-top: 18px;
+    padding: 12px;
+    height: 50px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+    width: 108px;
+    font-size: 18px;
+}
+
+.cc-cvv{
+    width: 60px;
+}
+
+.email input{
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding: 12px;
+    height: 50px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.pay-btn{
+    width: 100%;
+    border: none;
+    height: 50px;
+    border-radius: 3px;
+    margin-top: 30px;
+    font-size: 18px;
+    color: #444;
+    background-color: greenyellow;
+}
+
+.pay-btn:hover{
+    background-color: #444;
+    color: white;
+    cursor: pointer;
+}
