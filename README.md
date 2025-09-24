@@ -5,6 +5,7 @@ This project is my Diploma Final Year Project, I have developed as a web-based E
 The project demonstrates practical skills in web development, database management, and user interface design, aligning with real-world e-commerce applications.
 
 
+
 **🚀 Features**
 1. User Registration & Login – Secure authentication for customers and admin.
 2. Product Catalog – Browse Nike shoes by category with images and descriptions.
@@ -14,7 +15,9 @@ The project demonstrates practical skills in web development, database managemen
 6. Admin Dashboard – Manage products, categories, customers, and order history.
 
 
+
 **🛠️ Tech Stack**
+
 Frontend: HTML5, CSS3, JavaScript, Bootstrap
 Backend: PHP
 Database: MySQL
@@ -22,7 +25,9 @@ Server Environment: XAMPP (Apache, PHP, MySQL)
 Tools Used: Visual Studio Code, phpMyAdmin
 
 
+
 **📂 System Modules**
+
 Customer Module – Registration, login, shopping cart, checkout, order history.
 Admin Module – Product management, customer records, order management.
 Product Module – CRUD operations for Nike shoe products.
