@@ -26,6 +26,6 @@ Product Module – CRUD operations for Nike shoe products.
 Order Module – Processing and tracking customer orders.
 
 ## Team Members
-1. Kho Wei Cong (Leader)
-2. Tey Soon Hong (Member)
-3. Tee Chin Yean (Member)
+1. Kho Wei Cong
+2. Tey Soon Hong
+3. Tee Chin Yean
