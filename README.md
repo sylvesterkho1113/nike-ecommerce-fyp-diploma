@@ -21,8 +21,11 @@ Tools Used: Visual Studio Code, phpMyAdmin
 
 ## 📂 System Modules
 Customer Module – Registration, login, shopping cart, checkout, order history.
+
 Admin Module – Product management, customer records, order management.
+
 Product Module – CRUD operations for Nike shoe products.
+
 Order Module – Processing and tracking customer orders.
 
 ## Team Members
